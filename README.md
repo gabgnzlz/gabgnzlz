@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Ana Gabriela Gonzalez Teran</h1>
-<h3 align="center">Soy Ingeniera en Producción Industrial y me motiva el aprendizaje continuo</h3>
+<h3 align="center">Soy Ingeniera en Producción Industrial, me motiva el aprendizaje continuo y una curiosa del mundo de la programación</h3>
 
 <h3 align="left">Connect with me:</h3> <p> <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-gabriela-gonzalez-teran-b33ba6142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-gabriela-gonzalez-teran-b33ba6142/" height="30" width="40" /></a></p>
 
